@@ -15,8 +15,11 @@ Dataset contains user events with the following fields:
 - product_id
 - traffic_source
 
-Data is stored in BigQuery.
-
+**Data is stored in BigQuery.**
+## Tools Used
+- Google BigQuery (SQL queries and data analysis)
+- SQL (data extraction, aggregation, and analysis)
+- GitHub (project documentation and version control)
 ---
 
 ## Analysis Performed
